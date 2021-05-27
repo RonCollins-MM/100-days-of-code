@@ -13,7 +13,21 @@
 ### Day 1: May 25, 2021
 
 **Today's Progress**: Worked on the logic and design of my Scratch project - a simple Ping-Pong game that can allow two players to play against each other or 1 player to play against AI. The difficulty of the AI can also be set to: Easy, Normal, Difficult and Hardcore. Actual coding and building will start tomorrow. Hope to be done in 2 weeks. Also, will continue to build more games/projects on Scratch as side projects.
-
 **Thoughts** : Missed a day unfortunately due to Med school and fatigue. Felt more determined and refreshed today though. Will do everything in my power to never miss a day again. Overall, am happy to be back to coding :)
+
+**Link(s) to work**
+
+### Day 2: May 26, 2021
+
+**Today's Progress**: Was able to implement upward and downward movement of the PlayerOne Sprite. Thinking of adding cool movement effects in the future. Learnt quite a bit on how Sprite works.
+**Thoughts** : Posting this a day later(on the 27th) coz I ran out of time to update this block. I had missed the feeling of seeing code implement as you planned it to.
+
+**Link(s) to work**
+
+### Day 3: May 27, 2021
+
+**Today's Progress**: Cleaned up the movement code using abstractions. Also have finally known what abstractions are, though I still need to read a bit more on them. Was also good to read about programming paradigms. Reminds me of the good ol' highschool days... Also, can't seem to make the Sprite stop when it touches the edge of the screen without exiting the whole program..
+
+**Thoughts** : I hadn't missed the feeling of not having your code work as you plan it to LOL. Will figure it out though..
 
 **Link(s) to work**
