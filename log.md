@@ -31,3 +31,11 @@
 **Thoughts** : I hadn't missed the feeling of not having your code work as you plan it to LOL. Will figure it out though..
 
 **Link(s) to work**
+
+### Day 4: May 28, 2021
+
+**Today's Progress**: Figured out how to limit the Sprite movement to the upper and lower screen borders (Oh, the Joy!!). Implemented Player movements for player two as well. Looking next to introduce a ball and add ball mechanics.Once am done with the basic Ping-Pong (hopefully soon), I can start adding extra features e.g. Trick shot abilities, sounds and aesthetic effects.
+
+**Thoughts** : Felt really good to crack that nut of movement. I learnt a key lesson today on patience and the importance of taking baby steps/small bites when approaching a large problem.
+
+**Link(s) to work**
