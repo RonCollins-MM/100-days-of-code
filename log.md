@@ -39,3 +39,11 @@
 **Thoughts** : Felt really good to crack that nut of movement. I learnt a key lesson today on patience and the importance of taking baby steps/small bites when approaching a large problem.
 
 **Link(s) to work**
+
+### Day 5: June 1, 2021
+
+**Today's Progress**: Had a lot of trouble figuring out the ball mechanics. Had to seek some help from the Scratch Wiki page that proved super helpful. Will still have to polish up the ball physics by figuring out how the Math really works. This might involve me using some Nested Ifs. Otherwise, atm I have two functional ping pong player paddles as well as a functional ball. I think next I will polish up the ball physics. Then next I will work on adding audio and a backdrop. Once that is done, I can save it and maybe submit that project in case I never get time to work on it. Otherwise, I will continue to work on it until I finish it to what I envisioned.
+
+**Thoughts** : Was really frustrating to get a lot of bugs and glitches that I could not even explain. Managed to work around them thought. I also had underestimated the power of Scratch - it is not as easy as I thought. I also have to learn to be disciplined to 1 hour a day and to learn to take a break even when am stuck on a glitch. Oh yeah, and I missed 2 days due to schoolwork. Glad to be back though.
+
+**Link(s) to work**
