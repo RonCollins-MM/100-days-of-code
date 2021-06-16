@@ -15,14 +15,14 @@
 **Today's Progress**: Worked on the logic and design of my Scratch project - a simple Ping-Pong game that can allow two players to play against each other or 1 player to play against AI. The difficulty of the AI can also be set to: Easy, Normal, Difficult and Hardcore. Actual coding and building will start tomorrow. Hope to be done in 2 weeks. Also, will continue to build more games/projects on Scratch as side projects.
 **Thoughts** : Missed a day unfortunately due to Med school and fatigue. Felt more determined and refreshed today though. Will do everything in my power to never miss a day again. Overall, am happy to be back to coding :)
 
-**Link(s) to work**: {Coming soon..}
+**Link(s) to work**: _Coming soon.._
 
 ### Day 2: May 26, 2021
 
 **Today's Progress**: Was able to implement upward and downward movement of the PlayerOne Sprite. Thinking of adding cool movement effects in the future. Learnt quite a bit on how Sprite works.
 **Thoughts** : Posting this a day later(on the 27th) coz I ran out of time to update this block. I had missed the feeling of seeing code implement as you planned it to.
 
-**Link(s) to work**: {Coming soon..}
+**Link(s) to work**: _Coming soon.._
 
 ### Day 3: May 27, 2021
 
@@ -30,7 +30,7 @@
 
 **Thoughts** : I hadn't missed the feeling of not having your code work as you plan it to LOL. Will figure it out though..
 
-**Link(s) to work**: {Coming soon..}
+**Link(s) to work**: _Coming soon.._
 
 ### Day 4: May 28, 2021
 
@@ -38,7 +38,7 @@
 
 **Thoughts** : Felt really good to crack that nut of movement. I learnt a key lesson today on patience and the importance of taking baby steps/small bites when approaching a large problem.
 
-**Link(s) to work**: {Coming soon..}
+**Link(s) to work**: _Coming soon.._
 
 ### Day 5: June 1, 2021
 
@@ -46,11 +46,11 @@
 
 **Thoughts** : Was really frustrating to get a lot of bugs and glitches that I could not even explain. Managed to work around them thought. I also had underestimated the power of Scratch - it is not as easy as I thought. I also have to learn to be disciplined to 1 hour a day and to learn to take a break even when am stuck on a glitch. Oh yeah, and I missed 2 days due to schoolwork. Glad to be back though.
 
-**Link(s) to work**: {Coming soon..}
+**Link(s) to work**: _Coming soon.._
 ### Day 6: June 16, 2021
 
 **Today's Progress**: Trying to figure out the Physics and Math behind the ball Mechanics of My Pong game. Setup a Stack Exchange profile. Also, it's been a hot minute..
 
 **Thoughts** : 15-Day hiatus😅😅.. Oh, well. Had some personal issues to sort out. Hopefully I can be more consistent moving forward. All in all, am glad to be back !
 
-**Link(s) to work**: /i{Coming soon..}
+**Link(s) to work**: _Coming soon..
