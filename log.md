@@ -11,6 +11,7 @@
 ## Day 0: Sunday May 21, 2023
 
 **Project worked on**: 100-days-of-code layout
+
 **Language(s)**: markdown
 
 **Today's Progress**: Created a layout for the 100 days of code challenge - set up github and gathered resources.
