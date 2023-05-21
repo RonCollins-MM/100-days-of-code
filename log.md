@@ -1,10 +1,9 @@
 # 100 Days Of Code - Log
 
 **Projects I'm working on**:
-
-    * [project-amayo](https://github.com/amsuncode/project-amayo) [status : ONGOING]
-    * [popchat](https://github.com/DrOncogene/popchat) [status : ONGOING]
-    * [microblog webapp] (https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [status : ONGOING]
+    1. [project-amayo](https://github.com/amsuncode/project-amayo) [status : ONGOING]
+    2. [popchat](https://github.com/DrOncogene/popchat) [status : ONGOING]
+    3. [microblog webapp](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [status : ONGOING]
 
 ---
 
