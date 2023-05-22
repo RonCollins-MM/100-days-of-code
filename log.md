@@ -2,9 +2,7 @@
 
 **Projects I'm working on**:
 
-1. [project-amayo](https://github.com/amsuncode/project-amayo) [status : ONGOING]
-2. [popchat](https://github.com/DrOncogene/popchat) [status : ONGOING]
-3. [microblog webapp](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [status : ONGOING]
+1. [microblog webapp](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [status : **ONGOING**] ![progress bar](https://geps.dev/progress/1)
 
 ---
 
