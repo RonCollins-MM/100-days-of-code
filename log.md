@@ -31,3 +31,5 @@ Hoping to hit 100 days this year. Aiming to master Python language. Let's do thi
 Flask(\__name__) line in flask apps, \__init__.py files in python and FLASK_APP environment variable.
 
 **Thoughts**: Productive session. Python is a beautiful language.
+
+**Link to work**: [today's commit](https://github.com/RonCollins-MM/microblog/commit/28ff8af631d7c2bbbae45d70bef32d91931ceece)
