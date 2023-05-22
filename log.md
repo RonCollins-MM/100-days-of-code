@@ -1,8 +1,9 @@
 # 100 Days Of Code - Log
 
-**Projects I'm working on**:
+**Projects Progress**:
 
-1. [microblog webapp](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [status : **ONGOING**] ![progress bar](https://geps.dev/progress/1)
+1. [microblog webapp](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [status : **ONGOING**]
+![progress bar](https://geps.dev/progress/1)
 
 ---
 
