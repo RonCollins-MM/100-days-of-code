@@ -3,7 +3,7 @@
 **Projects Progress**:
 
 1. [microblog webapp](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [status : **ONGOING**]
-![progress bar](https://geps.dev/progress/1)
+![progress bar](https://geps.dev/progress/9)
 
 ---
 
@@ -33,3 +33,16 @@ Flask(\__name__) line in flask apps, \__init__.py files in python and FLASK_APP 
 **Thoughts**: Productive session. Python is a beautiful language.
 
 **Link to work**: [commit](https://github.com/RonCollins-MM/microblog/commit/28ff8af631d7c2bbbae45d70bef32d91931ceece)
+
+## Day 2: Monday May 23, 2023
+
+**Project worked on**: Microblog flask app
+
+**Language(s)**: Python
+
+**Today's Progress**: Learnt to work with Jinja2 templating system and to implement
+template inheritance. Also learnt hot to configure templates directory.
+
+**Thoughts**: Good session. Getting more comfortable with front-end work.
+
+**Link to work**: [commit](https://github.com/RonCollins-MM/microblog/commit/b774a6af241f6043db4c2bc3764f4426cb5e8a99)
