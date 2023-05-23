@@ -2,7 +2,7 @@
 
 **Projects Progress**:
 
-1. [microblog webapp](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [status : **ONGOING**]
+1. [microblog webapp](https://github.com/RonCollins-MM/microblog) [status : **ONGOING**]
 ![progress bar](https://geps.dev/progress/9)
 
 ---
