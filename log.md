@@ -3,7 +3,7 @@
 **Projects Progress**:
 
 1. [microblog webapp](https://github.com/RonCollins-MM/microblog) [status : **ONGOING**]
-![progress bar](https://geps.dev/progress/13)
+![progress bar](https://geps.dev/progress/15)
 
 ---
 
@@ -64,6 +64,18 @@ Also learnt:
 6. How to utilise error messages generated for forms with field validation
 7. How to use the `url_for()` function in flask to dynamically generate urls to allow for salability
 
-**Thoughts**: Learnt a lot of best practices today especially where scalability is key. Did my day early morning of next day because I was tired but that's oday
+**Thoughts**: Learnt a lot of best practices today especially where scalability is key. Did my day early morning of next day because I was tired but that's okay
 
 **Link to work**: [commit](https://github.com/RonCollins-MM/microblog/commit/6aca3aca42ac42825c64ca478a9a1364588cc973)
+
+## Day 4: Thursday May 25, 2023
+
+**Project worked on**: Microblog flask app
+
+**Language(s)**: Python
+
+**Today's Progress**: Created first model (User) plus added database support with migrations. Utilised `flask-sqlalchemy` and `flask-migrate` extensions.
+
+**Thoughts**: working with databases is a core part of being a backend engineer. I am very careful to understand as much as I can as an aspiring backend dev. Did half the work today, will complete tomorrow.
+
+**Link to work**: [commit](https://github.com/RonCollins-MM/micACroblog/commit/f6a2f4e297f49c18764ee2be725385089c896b35)
