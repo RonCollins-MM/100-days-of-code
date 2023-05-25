@@ -34,7 +34,7 @@ Flask(\__name__) line in flask apps, \__init__.py files in python and FLASK_APP 
 
 **Link to work**: [commit](https://github.com/RonCollins-MM/microblog/commit/28ff8af631d7c2bbbae45d70bef32d91931ceece)
 
-## Day 2: Monday May 23, 2023
+## Day 2: Tuesday May 23, 2023
 
 **Project worked on**: Microblog flask app
 
@@ -46,3 +46,24 @@ template inheritance. Also learnt hot to configure templates directory.
 **Thoughts**: Good session. Getting more comfortable with front-end work.
 
 **Link to work**: [commit](https://github.com/RonCollins-MM/microblog/commit/b774a6af241f6043db4c2bc3764f4426cb5e8a99)
+
+## Day 3: Wednesday May 24, 2023
+
+**Project worked on**: Microblog flask app
+
+**Language(s)**: Python
+
+**Today's Progress**: Implemented a webform that captures data from user using `Flask-wtf`.
+Also learnt:
+
+1. A good way to store config settings for a flask app.
+2. How to prevet [cross-site request forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery) attacks for webforms in flask.
+3. How to handle `POST` request data in form views
+4. How to use the `flash()` function in flask
+5. How to perform field validation for flask forms
+6. How to utilise error messages generated for forms with field validation
+7. How to use the `url_for()` function in flask to dynamically generate urls to allow for salability
+
+**Thoughts**: Learnt a lot of best practices today especially where scalability is key. Did my day early morning of next day because I was tired but that's oday
+
+**Link to work**: [commit](https://github.com/RonCollins-MM/microblog/commit/6aca3aca42ac42825c64ca478a9a1364588cc973)
