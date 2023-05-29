@@ -1,9 +1,9 @@
 # 100 Days Of Code - Log
 
-**Projects Progress**:
+**Projects**:
 
 1. [microblog webapp](https://github.com/RonCollins-MM/microblog) [status : **ONGOING**]
-![progress bar](https://geps.dev/progress/15)
+![progress bar](https://geps.dev/progress/17)
 
 ---
 
@@ -79,3 +79,25 @@ Also learnt:
 **Thoughts**: working with databases is a core part of being a backend engineer. I am very careful to understand as much as I can as an aspiring backend dev. Did half the work today, will complete tomorrow.
 
 **Link to work**: [commit](https://github.com/RonCollins-MM/micACroblog/commit/f6a2f4e297f49c18764ee2be725385089c896b35)
+
+## Day 5: Thursday May 29, 2023
+
+**Project worked on**: Microblog flask app
+
+**Language(s)**: Python
+
+**Today's Progress**: Learnt quite a bit regarding working with databases
+using flask:
+
+1. Creating a `One-to-Many` relationship between Models.
+2. Creating a `flask shell` context.
+3. Working with `flask shell` to manipulate objects in various ways:
+    * Creating and deleting objects.
+    * Running queries from the shell using SQLAlchemy ORM methods.
+    * Committing and rollingback changes to db.
+
+**Thoughts**: Had a 4 day hiatus - laptop battery needed replacement. Anyway,
+glad to be back to the grind. I am determined to be Pythoneer some day.
+Hopefully I can contribute to the Python core someday?
+
+**Link to work**: [commit](https://github.com/RonCollins-MM/microblog/commit/0a108230bb86e07e1ca6a358c65282940c7ad736)
