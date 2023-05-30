@@ -2,8 +2,7 @@
 
 **Projects**:
 
-1. [microblog webapp](https://github.com/RonCollins-MM/microblog) [status : **ONGOING**]
-![progress bar](https://geps.dev/progress/17)
+1. [microblog webapp](https://github.com/RonCollins-MM/microblog) [status : **ONGOING**] | ![progress bar](https://geps.dev/progress/21)
 
 ---
 
@@ -80,7 +79,7 @@ Also learnt:
 
 **Link to work**: [commit](https://github.com/RonCollins-MM/micACroblog/commit/f6a2f4e297f49c18764ee2be725385089c896b35)
 
-## Day 5: Thursday May 29, 2023
+## Day 5: Monday May 29, 2023
 
 **Project worked on**: Microblog flask app
 
@@ -101,3 +100,21 @@ glad to be back to the grind. I am determined to be Pythoneer some day.
 Hopefully I can contribute to the Python core someday?
 
 **Link to work**: [commit](https://github.com/RonCollins-MM/microblog/commit/0a108230bb86e07e1ca6a358c65282940c7ad736)
+
+## Day 6: Tuesday May 30, 2023
+
+**Project worked on**: Microblog flask app
+
+**Language(s)**: Python
+
+**Today's Progress**: Implemented user registration, login, logout and
+authentication. Also learnt how to:
+
+1. Hash user passwords.
+2. Add custom validators to forms.
+3. Use `UserMixin` class to implement generic implementations of `flask-login`
+
+**Thoughts**: The project is coming up nicely. Loving how my skill is slowly
+but surely improving. Getting more comfortable with flask and it feels good.
+
+**Link to work**: [commit](https://github.com/RonCollins-MM/microblog/commit/46b9f8d316b3bd2d14fd8e795ecf509e93236ba4)
