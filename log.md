@@ -2,7 +2,7 @@
 
 **Projects**:
 
-1. [microblog webapp](https://github.com/RonCollins-MM/microblog) [status : **ONGOING**] | ![progress bar](https://geps.dev/progress/21)
+1. [microblog webapp](https://github.com/RonCollins-MM/microblog) [status : **ONGOING**] | ![progress bar](https://geps.dev/progress/26)
 
 ---
 
@@ -118,3 +118,24 @@ authentication. Also learnt how to:
 but surely improving. Getting more comfortable with flask and it feels good.
 
 **Link to work**: [commit](https://github.com/RonCollins-MM/microblog/commit/46b9f8d316b3bd2d14fd8e795ecf509e93236ba4)
+
+## Day 7: Wednesday May 31, 2023
+
+**Project worked on**: Microblog flask app
+
+**Language(s)**: Python
+
+**Today's Progress**: Implemented user profile page. Users can now view profile
+page and edit it.
+
+Key concepts learnt:
+
+1. How to use `sub-templates` in Jinja2
+2. Using external APIs in applications
+3. A little bit about md5 hashing algorithm
+
+**Thoughts**: This was tough today. Have a bug in my code that I can't really
+figure out thought the code works well. Loving that I am getting more comfortable
+with Python.
+
+**Link to work**: [commit](https://github.com/RonCollins-MM/microblog/commit/139983f0556ca08cc5e11f3a17603cb65c2dd5d7)
